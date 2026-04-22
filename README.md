@@ -1,6 +1,6 @@
 # Internet_of_Things_tomli
-For Class
-## Example README file
-- Line 1
-- Line 2
-- Python Codes will be uploaded here
+To archive codes for Tom Li's midterm and final project codes
+## Midterm Project Code
+- Strike Detector
+## Final Project Code
+- Feline Hydration Detector Ver 1.3
